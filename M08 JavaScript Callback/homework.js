@@ -75,6 +75,9 @@ function map(array, cb) {
    // };
    // return arreglo;
   
+//   var array2 = array.forEach(ele => cb(ele));
+//   return array2
+// esto me lo paso el nabo de slack...no funciona...se puede hacer que forEach devuelva nuevo arreglo?
    
    // let newArray = [];
    // array.map((e) => newArray.push(cb(e)))

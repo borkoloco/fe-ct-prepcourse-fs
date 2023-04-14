@@ -202,10 +202,10 @@ function doWhile(num) {
    // Tu código:
    let i=0;
    do {
-     num= num + 5;
-     i++;
+     num = num + 5;
+     i++
    } while (i<8);
-   return(num);
+   return (num);
 }
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
